@@ -75,3 +75,91 @@ The execution time of parallel code is: 19.640000ms
 The number of 3's when executing in parallel is 50098
 The execution time of serial code is: 3.469000ms
 The number of 3's when executing serially is 105093
+
+with mutexes
+t=1
+The execution time of parallel code is: 5.533000ms
+The number of 3's when executing in parallel is 105158
+The execution time of serial code is: 4.245000ms
+The number of 3's when executing serially is 105158
+
+t=4
+The execution time of parallel code is: 47.144000ms
+The number of 3's when executing in parallel is 104606
+The execution time of serial code is: 4.433000ms
+The number of 3's when executing serially is 104606
+
+t=8
+The execution time of parallel code is: 23.775000ms
+The number of 3's when executing in parallel is 104510
+The execution time of serial code is: 5.561000ms
+The number of 3's when executing serially is 104510
+
+t=12
+The execution time of parallel code is: 12.596000ms
+The number of 3's when executing in parallel is 105249
+The execution time of serial code is: 5.286000ms
+The number of 3's when executing serially is 105250
+
+t=16
+
+The execution time of parallel code is: 14.510000ms
+The number of 3's when executing in parallel is 104512
+The execution time of serial code is: 5.344000ms
+The number of 3's when executing serially is 104512
+
+
+t=20
+The execution time of parallel code is: 8.015000ms
+The number of 3's when executing in parallel is 104705
+The execution time of serial code is: 5.133000ms
+The number of 3's when executing serially is 104707
+
+t=24
+
+The execution time of parallel code is: 10.135000ms
+The number of 3's when executing in parallel is 105703
+The execution time of serial code is: 4.191000ms
+The number of 3's when executing serially is 105703
+
+t=28
+
+The execution time of parallel code is: 60.177000ms
+The number of 3's when executing in parallel is 104660
+The execution time of serial code is: 3.864000ms
+The number of 3's when executing serially is 104660
+
+t=32
+
+The execution time of parallel code is: 19.856000ms
+The number of 3's when executing in parallel is 104764
+The execution time of serial code is: 5.538000ms
+The number of 3's when executing serially is 104764
+
+t=36
+
+The execution time of parallel code is: 61.689000ms
+The number of 3's when executing in parallel is 104695
+The execution time of serial code is: 4.240000ms
+The number of 3's when executing serially is 104696
+
+t=40
+
+The execution time of parallel code is: 27.210000ms
+The number of 3's when executing in parallel is 105201
+The execution time of serial code is: 5.311000ms
+The number of 3's when executing serially is 105204
+
+t=44
+
+The execution time of parallel code is: 61.197000ms
+The number of 3's when executing in parallel is 104991
+The execution time of serial code is: 3.974000ms
+The number of 3's when executing serially is 104993
+
+t=48
+
+The execution time of parallel code is: 27.808000ms
+The number of 3's when executing in parallel is 104826
+The execution time of serial code is: 3.860000ms
+The number of 3's when executing serially is 104827
